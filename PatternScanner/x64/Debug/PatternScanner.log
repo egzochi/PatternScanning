@@ -1,0 +1,4 @@
+﻿  mainform.cpp
+C:\Users\exuchy\source\repos\PatternScanner\PatternScanner\mainform.cpp(8,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  mainform.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PatternScanner.vcxproj -> C:\Users\exuchy\source\repos\PatternScanner\x64\Debug\PatternScanner.exe

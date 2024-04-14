@@ -1,0 +1,4 @@
+C:\Users\exuchy\source\repos\PatternScanner\PatternScanner\x64\Release\PatternScanner.vcxproj.AssemblyReference.cache
+C:\Users\exuchy\source\repos\PatternScanner\PatternScanner\x64\Release\PatternScanner.mainform.resources
+C:\Users\exuchy\source\repos\PatternScanner\PatternScanner\x64\Release\PatternScanner.offsets.resources
+C:\Users\exuchy\source\repos\PatternScanner\PatternScanner\x64\Release\PatternScanner.vcxproj.GenerateResource.cache
